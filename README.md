@@ -1,0 +1,1 @@
+# A Backend to get data from mqtt, write the data to DB, and expose API to fetch the data based on the user registered device
